@@ -9,7 +9,7 @@ export const HeaderContent = styled.div`
   height: 100%;
   display: flex;
   align-items: center;
-  padding: 10px 20px;
+  padding: 20px;
   justify-content: flex-start;
 `;
 
