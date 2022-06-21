@@ -15,3 +15,10 @@ export const BackgroundContent = styled.div`
   overflow: hidden;
   border-radius: 24px;
 `;
+
+export const Title = styled.h1`
+  font-family: AprovaSansBlack, sans-serif;
+  font-size: 22px;
+  line-height: 120%;
+  margin-bottom: 20px;
+`;
